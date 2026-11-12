@@ -2,7 +2,7 @@
 
 | Field | Value |
 |---|---|
-| Author | _your name_ |
+| Author | Theophile J. Tata |
 | Version | 1.0 (draft) |
 | Date | 2026-10-13 |
 | Status | Draft – pending data profiling (Phase 1B) |
@@ -11,7 +11,7 @@
 
 ## 1. Business context
 
-Lending Club was a US peer-to-peer lender that issued unsecured personal loans of $1,000–$40,000 over 36 or 60 months. Every applicant was given a risk grade (A–G) and an interest rate to match. The lender earns interest when a loan is repaid. When a borrower stops paying, the loan is **charged off** and most of the remaining principal is lost.
+Lending Club is a US peer-to-peer lender that issues unsecured personal loans of $1,000–$40,000 over 36 or 60 months. Every applicant is given a risk grade (A–G) and an interest rate to match. The lender earns interest when a loan is repaid. When a borrower stops paying, the loan is **charged off** and most of the remaining principal is lost.
 
 Between 2007 and 2018 Lending Club issued about 2.26 million loans. A small improvement in telling good borrowers from bad ones at that scale is worth millions of dollars. The business needs to:
 
